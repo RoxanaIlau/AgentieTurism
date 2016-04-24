@@ -1,0 +1,21 @@
+
+	Pachet 1:@
+Hotel: First Central Suites Dubai (4 stele)@
+Durata:	7 nopti@
+Masa:	mic dejun@
+pret: 	de la 496 $/pers
+		
+	Pachet 2:@
+Hotel: Crowne  Hotel (5 stele)@
+Durata:	7 nopti@
+Masa:	mic dejun@
+pret: 	de la@
+		778 $/pers@
+		
+	Pachet 3:@	
+Hotel: Fairmont Dubai (5 stele)@
+Durata:	7 nopti@
+Masa:	mic dejun@
+pret: 	de la@
+		1.078 $/pers@
+	
